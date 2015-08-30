@@ -1,4 +1,6 @@
 # grunt-epubmk
+<<<<<<< HEAD
+
 > The epub maker
 
 ## Getting Started
@@ -132,3 +134,4 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 _(Nothing yet)_
 =======
 A plugin to create epub files from a folder within html files.
+>>>>>>> 43246b7bab1f46787599c83e8bd1b00b2b7f5df2
