@@ -1,0 +1,48 @@
+{
+  "name": "grunt-epubmk",
+  "description": "The epub maker",
+  "version": "0.1.0",
+  "homepage": "https://github.com/antonioagrestini/grunt-epubmk",
+  "author": {
+    "name": "Antonio Agrestini",
+    "email": "info@webfaster.it",
+    "url": "www.webfaster.it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/antonioagrestini/grunt-epubmk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/antonioagrestini/grunt-epubmk/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/antonioagrestini/grunt-epubmk/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-compress": "^0.13.0",
+    "grunt-contrib-handlebars": "^0.10.2",
+    "grunt-contrib-jshint": "^0.9.2",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt-shell": "^1.1.2"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "dependencies": {
+    "handlebars": "^3.0.3"
+  }
+}
